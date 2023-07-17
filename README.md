@@ -24,6 +24,12 @@ N = 5
 arr[] = { 4, 1, 3, 9, 7}
 Output:
 1 3 4 7 9
+# .Sort the array using merge sort algorithm.
+Input:
+N = 5
+arr[] = { 4, 1, 3, 9, 7}
+Output:
+1 3 4 7 9
 # .Sort the array using quick sort algorithm.
 Input:
 N = 5
