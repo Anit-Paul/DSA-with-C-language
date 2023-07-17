@@ -1,4 +1,4 @@
-# sorting DSA-with-C-language
+# 1.Sorting DSA-with-C-language
 # Sort the array using bubble sort algorithm.
 Example 1:
 Input: 
