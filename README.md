@@ -45,3 +45,5 @@ Output:
 # 2.Searching DSA-with-C-language
 # .linear search
 # .Binary search
+# 3.linear data structure with-C-language
+# .Stack Data Structure
